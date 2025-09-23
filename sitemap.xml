@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://turcotte.github.io/abc123/lectures/01/index.html</loc>
+    <lastmod>2025-09-23T12:41:50.705Z</lastmod>
+  </url>
+  <url>
+    <loc>https://turcotte.github.io/abc123/faq.html</loc>
+    <lastmod>2025-09-23T12:39:55.490Z</lastmod>
+  </url>
+  <url>
+    <loc>https://turcotte.github.io/abc123/index.html</loc>
+    <lastmod>2025-09-23T12:41:55.162Z</lastmod>
+  </url>
+  <url>
     <loc>https://turcotte.github.io/abc123/about.html</loc>
     <lastmod>2025-09-21T21:07:13.481Z</lastmod>
   </url>
   <url>
-    <loc>https://turcotte.github.io/abc123/index.html</loc>
-    <lastmod>2025-09-21T21:08:06.313Z</lastmod>
+    <loc>https://turcotte.github.io/abc123/lectures/index.html</loc>
+    <lastmod>2025-09-23T12:44:53.583Z</lastmod>
   </url>
 </urlset>
