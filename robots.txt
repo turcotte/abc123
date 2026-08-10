@@ -1,1 +1,0 @@
-Sitemap: https://turcotte.github.io/abc123/sitemap.xml

@@ -143,7 +143,10 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><a href="../lectures/01/index.html">01</a></p>
+<ul>
+<li><a href="../lectures/01/index.html">01</a></li>
+<li><a href="../lectures/02/index.html">02</a></li>
+</ul>
 
 
 
@@ -221,7 +224,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/turcotte\.github\.io\/abc123\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
